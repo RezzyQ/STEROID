@@ -1,13 +1,3 @@
-/**
- * @file connection.h
- * @author Кошкин М.В.
- * @version 1.0
- * @date 2025
- * @copyright ИБСТ ПГУ
- * @brief Заголовочный файл класса Connection для сетевого взаимодействия
- * @details Класс обеспечивает установку соединения с сервером и обмен данными
- */
-
 #pragma once
 #include "errno.h"
 #include "crypto.h"
