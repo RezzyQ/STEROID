@@ -1,13 +1,3 @@
-/**
- * @file crypto.h
- * @author Кошкин М.В.
- * @version 1.0
- * @date 2025
- * @copyright ИБСТ ПГУ
- * @brief Заголовочный файл для криптографических функций
- * @warning Используется библиотека CryptoPP с поддержкой устаревших алгоритмов
- */
-
 #pragma once
 #define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1 
 #include <string>
