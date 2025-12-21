@@ -1,13 +1,3 @@
-/**
- * @file connection.cpp
- * @author Кошкин М.В.
- * @version 1.0
- * @date 2025
- * @copyright ИБСТ ПГУ
- * @brief Реализация класса Connection для сетевого взаимодействия
- * @details Реализует протокол взаимодействия с сервером: аутентизацию и передачу данных
- */
-
 #include "connection.h"
 
 /**
